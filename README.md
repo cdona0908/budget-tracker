@@ -18,7 +18,7 @@ Budget Tracker is an application that allows the user to track their money, by g
   The user can access the application directly going to the app's URL. However, the user also have the possibility of installing the application by following these steps:
 
   1. On your computer, open Chrome.
-  2. Go to the app's website.
+  2. Go to https://sleepy-garden-95445.herokuapp.com/ .
   3. At the top right of the address bar, click Install ➕.
   4. Follow the onscreen instructions to install the PWA.
 
@@ -29,6 +29,8 @@ Budget Tracker is an application that allows the user to track their money, by g
   ![Budget Tracker Screenshot](images/budget-tracker-screenshot.png)
 
   URL of deployed application:
+
+  https://sleepy-garden-95445.herokuapp.com/ 
 
  ## License
 
